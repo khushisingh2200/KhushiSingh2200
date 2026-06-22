@@ -44,9 +44,7 @@ Currently pursuing MSc Embedded Systems Engineering at the University of Freibur
 
 ## Currently Learning
 
-- Power BI — dashboards and DAX
-- SQL — advanced queries and window functions
-- Streamlit — interactive data applications
+- Cloud data tools
 
 ---
 
