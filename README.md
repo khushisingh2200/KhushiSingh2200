@@ -44,7 +44,7 @@ Currently pursuing MSc Embedded Systems Engineering at the University of Freibur
 
 ## Currently Learning
 
-- Cloud data tools
+- Google BigQuery, Power BI (dashboards, DAX, data modeling)
 
 ---
 
